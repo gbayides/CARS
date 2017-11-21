@@ -39,4 +39,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Our systems is integrated with the vehicle to make your car smarter. It will sense your child in danger, and react to save them
 Here is a video of our system in action:
-<video src="video.mp4" width="320" height="200" controls preload></video>
